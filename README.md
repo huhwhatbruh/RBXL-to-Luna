@@ -6,3 +6,7 @@ just create a source file in the root directory with a filetree like ./src and t
 
 
                      
+oh and uh remember to change the name from game.rbxl to whatever u want it to be, or keep it, just make sure u name ur RBXL file to game.
+
+
+I made this cuz my studio kept crashing when trying to export an XML file of my game btw.
