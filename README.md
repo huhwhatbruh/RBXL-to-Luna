@@ -10,3 +10,6 @@ oh and uh remember to change the name from game.rbxl to whatever u want it to be
 
 
 I made this cuz my studio kept crashing when trying to export an XML file of my game btw.
+
+
+and then if u have rojo installed u can just use "rojo build -o "whateverurgamenameisitdoesnthavetobethenameofthefile.rbxl""
